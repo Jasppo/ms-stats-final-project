@@ -6,8 +6,7 @@
 
 ## About ------------------
 # Code for STAT 632 Final Project (Spring 2024)
-# Note: This R script is a cleaned up version of "Paper - Vehicle CO2 Emissions.qmd"
-#   "Paper - Vehicle CO2 Emissions.qmd" used to create PDF report of analysis
+# Note: This R script is a cleaned up version of our Quarto Markdown file that generates the PDF report.
 
 ## How to run script -----------
 # 1. Open "Project.Rproj" - This sets the appropriate working directory required to run this script
